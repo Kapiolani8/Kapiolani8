@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+#p1 {
+    background-color: lavender;
+    font-style: italic;
+    font-size: 30px
+}
+.purple_background {
+    background-color: lavender;
+}
+#main {
+    width: 500px;
+    height: 100px;
+    border:3px
+    background-color: rgba(255, 255,255, 0.5);
+    border radius: 10px;
+    margin: 50px
+    padding: 20px
+}
+#main p{
+    color: red;
+}
